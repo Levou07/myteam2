@@ -1,0 +1,87 @@
+.about__bg{
+    background-color: #F67E7E;
+}
+
+.about__up{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 0;
+}
+.about__up h2{
+    color: #001;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    margin-left: 40px;
+}
+
+.about__up button{
+    background-color: transparent;
+    padding: 7px 15px;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-right: 40px;
+}
+
+.imggr9{
+    width: 140px;
+    position: relative;
+    right: 897px;
+    top: 35px;
+}
+
+/* down */
+
+.down__bg2{
+    background-color: #002529;
+}
+
+.about__down{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 900px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+.about__left h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+}
+.about-left__texts{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: -20px;
+}
+
+.about__center p{
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+.about__right{
+    text-align: right;
+}
+.about__right img{
+    margin: 0 10px;
+}
+.about__right p{
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
